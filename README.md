@@ -1,6 +1,8 @@
 # Watson-TweetlyzR
 Repository for shiny application using IBM Watson Personality Insights API on Tweets
 
+SEE DEMO: https://rudymartin.shinyapps.io/Watson-TweetlyzR/
+
 This repo has two branches
 * master
 * gh-pages
