@@ -1,0 +1,53 @@
+"userID","createDate","row","category","trait","percentage","sampling_error"
+"realDonaldTrump",2016-09-21,1,"Personality","Openness",82.04,0.0544
+"realDonaldTrump",2016-09-21,2,"Personality","Adventurousness",61.34,0.0472
+"realDonaldTrump",2016-09-21,3,"Personality","Artistic interests",61.41,0.0964
+"realDonaldTrump",2016-09-21,4,"Personality","Emotionality",73.53,0.0445
+"realDonaldTrump",2016-09-21,5,"Personality","Imagination",12.57,0.059
+"realDonaldTrump",2016-09-21,6,"Personality","Intellect",88.71,0.0514
+"realDonaldTrump",2016-09-21,7,"Personality","Liberalism",34.95,0.0781
+"realDonaldTrump",2016-09-21,8,"Personality","Conscientiousness",95.84,0.0707
+"realDonaldTrump",2016-09-21,9,"Personality","Achievement striving",97.54,0.0916
+"realDonaldTrump",2016-09-21,10,"Personality","Cautiousness",88.37,0.0848
+"realDonaldTrump",2016-09-21,11,"Personality","Dutifulness",97.48,0.0564
+"realDonaldTrump",2016-09-21,12,"Personality","Orderliness",63.84,0.0653
+"realDonaldTrump",2016-09-21,13,"Personality","Self-discipline",96.79,0.0436
+"realDonaldTrump",2016-09-21,14,"Personality","Self-efficacy",96.88,0.0855
+"realDonaldTrump",2016-09-21,15,"Personality","Extraversion",98.68,0.0518
+"realDonaldTrump",2016-09-21,16,"Personality","Activity level",84.37,0.0718
+"realDonaldTrump",2016-09-21,17,"Personality","Assertiveness",97.73,0.0769
+"realDonaldTrump",2016-09-21,18,"Personality","Cheerfulness",80,0.0962
+"realDonaldTrump",2016-09-21,19,"Personality","Excitement-seeking",9.31,0.0767
+"realDonaldTrump",2016-09-21,20,"Personality","Friendliness",97.28,0.0698
+"realDonaldTrump",2016-09-21,21,"Personality","Gregariousness",68.22,0.0543
+"realDonaldTrump",2016-09-21,22,"Personality","Agreeableness",99.16,0.0902
+"realDonaldTrump",2016-09-21,23,"Personality","Altruism",98.26,0.0655
+"realDonaldTrump",2016-09-21,24,"Personality","Cooperation",79.5,0.0749
+"realDonaldTrump",2016-09-21,25,"Personality","Modesty",59.17,0.051
+"realDonaldTrump",2016-09-21,26,"Personality","Morality",96.09,0.0583
+"realDonaldTrump",2016-09-21,27,"Personality","Sympathy",99.86,0.09
+"realDonaldTrump",2016-09-21,28,"Personality","Trust",74.95,0.0511
+"realDonaldTrump",2016-09-21,29,"Personality","Neuroticism",88.59,0.0829
+"realDonaldTrump",2016-09-21,30,"Personality","Anger",18.72,0.0868
+"realDonaldTrump",2016-09-21,31,"Personality","Anxiety",17.61,0.0506
+"realDonaldTrump",2016-09-21,32,"Personality","Depression",4.86,0.0535
+"realDonaldTrump",2016-09-21,33,"Personality","Immoderation",11.94,0.0495
+"realDonaldTrump",2016-09-21,34,"Personality","Self-consciousness",0.88,0.0516
+"realDonaldTrump",2016-09-21,35,"Personality","Vulnerability",3.63,0.0785
+"realDonaldTrump",2016-09-21,36,"Needs","Challenge",14.51,0.0775
+"realDonaldTrump",2016-09-21,37,"Needs","Closeness",51.33,0.0767
+"realDonaldTrump",2016-09-21,38,"Needs","Curiosity",8.95,0.1093
+"realDonaldTrump",2016-09-21,39,"Needs","Excitement",2.59,0.0997
+"realDonaldTrump",2016-09-21,40,"Needs","Harmony",31.87,0.0986
+"realDonaldTrump",2016-09-21,41,"Needs","Ideal",12.32,0.0897
+"realDonaldTrump",2016-09-21,42,"Needs","Liberty",2.77,0.1335
+"realDonaldTrump",2016-09-21,43,"Needs","Love",12.53,0.0909
+"realDonaldTrump",2016-09-21,44,"Needs","Practicality",3.27,0.0799
+"realDonaldTrump",2016-09-21,45,"Needs","Self-expression",12.77,0.0751
+"realDonaldTrump",2016-09-21,46,"Needs","Stability",52.66,0.0973
+"realDonaldTrump",2016-09-21,47,"Needs","Structure",39.03,0.0733
+"realDonaldTrump",2016-09-21,48,"Values","Conservation",49.08,0.0646
+"realDonaldTrump",2016-09-21,49,"Values","Openness to change",13.17,0.0601
+"realDonaldTrump",2016-09-21,50,"Values","Hedonism",14.54,0.1249
+"realDonaldTrump",2016-09-21,51,"Values","Self-enhancement",2.08,0.0943
+"realDonaldTrump",2016-09-21,52,"Values","Self-transcendence",14.23,0.0723

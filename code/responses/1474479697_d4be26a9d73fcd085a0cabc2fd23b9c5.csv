@@ -1,0 +1,53 @@
+"userID","createDate","row","category","trait","percentage","sampling_error"
+"justinbieber",2016-09-21,1,"Personality","Openness",83.15,0.0545
+"justinbieber",2016-09-21,2,"Personality","Adventurousness",70.61,0.0472
+"justinbieber",2016-09-21,3,"Personality","Artistic interests",67.54,0.0966
+"justinbieber",2016-09-21,4,"Personality","Emotionality",40.18,0.0446
+"justinbieber",2016-09-21,5,"Personality","Imagination",21.71,0.059
+"justinbieber",2016-09-21,6,"Personality","Intellect",98.18,0.0515
+"justinbieber",2016-09-21,7,"Personality","Liberalism",55.07,0.0781
+"justinbieber",2016-09-21,8,"Personality","Conscientiousness",82.64,0.0708
+"justinbieber",2016-09-21,9,"Personality","Achievement striving",94.05,0.0917
+"justinbieber",2016-09-21,10,"Personality","Cautiousness",94.11,0.0849
+"justinbieber",2016-09-21,11,"Personality","Dutifulness",87.01,0.0565
+"justinbieber",2016-09-21,12,"Personality","Orderliness",57.05,0.0654
+"justinbieber",2016-09-21,13,"Personality","Self-discipline",92.05,0.0436
+"justinbieber",2016-09-21,14,"Personality","Self-efficacy",96.78,0.0857
+"justinbieber",2016-09-21,15,"Personality","Extraversion",70.22,0.0518
+"justinbieber",2016-09-21,16,"Personality","Activity level",74.97,0.0719
+"justinbieber",2016-09-21,17,"Personality","Assertiveness",99.37,0.077
+"justinbieber",2016-09-21,18,"Personality","Cheerfulness",33.37,0.0963
+"justinbieber",2016-09-21,19,"Personality","Excitement-seeking",14.55,0.0767
+"justinbieber",2016-09-21,20,"Personality","Friendliness",68.03,0.0698
+"justinbieber",2016-09-21,21,"Personality","Gregariousness",25.21,0.0543
+"justinbieber",2016-09-21,22,"Personality","Agreeableness",24.8,0.0903
+"justinbieber",2016-09-21,23,"Personality","Altruism",96.24,0.0656
+"justinbieber",2016-09-21,24,"Personality","Cooperation",44.03,0.0749
+"justinbieber",2016-09-21,25,"Personality","Modesty",29.07,0.051
+"justinbieber",2016-09-21,26,"Personality","Morality",89.3,0.0583
+"justinbieber",2016-09-21,27,"Personality","Sympathy",99.6,0.0902
+"justinbieber",2016-09-21,28,"Personality","Trust",33.83,0.0512
+"justinbieber",2016-09-21,29,"Personality","Neuroticism",93.32,0.083
+"justinbieber",2016-09-21,30,"Personality","Anger",6.51,0.0869
+"justinbieber",2016-09-21,31,"Personality","Anxiety",5.32,0.0506
+"justinbieber",2016-09-21,32,"Personality","Depression",9.52,0.0536
+"justinbieber",2016-09-21,33,"Personality","Immoderation",7.67,0.0495
+"justinbieber",2016-09-21,34,"Personality","Self-consciousness",7.98,0.0517
+"justinbieber",2016-09-21,35,"Personality","Vulnerability",1.52,0.0786
+"justinbieber",2016-09-21,36,"Needs","Challenge",6.76,0.0776
+"justinbieber",2016-09-21,37,"Needs","Closeness",5.2,0.0768
+"justinbieber",2016-09-21,38,"Needs","Curiosity",22.17,0.1094
+"justinbieber",2016-09-21,39,"Needs","Excitement",6.08,0.0999
+"justinbieber",2016-09-21,40,"Needs","Harmony",4.77,0.0988
+"justinbieber",2016-09-21,41,"Needs","Ideal",11.24,0.0899
+"justinbieber",2016-09-21,42,"Needs","Liberty",4.46,0.1336
+"justinbieber",2016-09-21,43,"Needs","Love",2.09,0.091
+"justinbieber",2016-09-21,44,"Needs","Practicality",8.68,0.08
+"justinbieber",2016-09-21,45,"Needs","Self-expression",11.05,0.0752
+"justinbieber",2016-09-21,46,"Needs","Stability",41.87,0.0975
+"justinbieber",2016-09-21,47,"Needs","Structure",60.36,0.0734
+"justinbieber",2016-09-21,48,"Values","Conservation",41.06,0.0646
+"justinbieber",2016-09-21,49,"Values","Openness to change",4.96,0.0602
+"justinbieber",2016-09-21,50,"Values","Hedonism",5.58,0.125
+"justinbieber",2016-09-21,51,"Values","Self-enhancement",0.37,0.0944
+"justinbieber",2016-09-21,52,"Values","Self-transcendence",9.83,0.0723
